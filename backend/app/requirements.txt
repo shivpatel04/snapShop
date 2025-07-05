@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+tensorflow
+numpy
+pillow
+beautifulsoup4
+requests
+open_clip_torch
+torch
